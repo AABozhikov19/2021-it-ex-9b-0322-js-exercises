@@ -1,0 +1,1 @@
+let yesFunc = () console.log("yes");
